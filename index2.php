@@ -13,7 +13,7 @@ function skillFunction() {
 }
 </script>
 
-
+<?php echo "I changed and edit this file";?>
 
 <!--show other skills-->
 <?phpforeach($user_skill_data as $user_skill_row){
