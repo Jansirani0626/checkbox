@@ -1,3 +1,6 @@
+<html>
+
+<h3>Checkbox</h3>
 <form action="" method="post">
 <input type="hidden" name="status_1" value="0" />
 <input type="checkbox" id="status_1" name="status_1" value="1" />
@@ -18,4 +21,6 @@ var_dump($_POST);
   'status_1' => string '0' (length=1)
   'status_2' => string '1' (length=1)
   'status_3' => string '0' (length=1)
- */
+ */?>
+ 
+ </html>
